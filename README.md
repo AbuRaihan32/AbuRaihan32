@@ -63,6 +63,13 @@
   <img height="50px" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+<br/>
+
+## 📄 About Me
+<p align="center">As a developer I can demonstrate any frontend requirement in a beautifully attractive way. <br/> I am very serious and focused on my work. I love to take on new challenges. <br/> I think it's better to fail than to succeed on the shoulders of others. <br/> Administered. Attained. Arranged.</p>
+
+
+<br/>
 
 ## 🚀 : Coding Progress
 
