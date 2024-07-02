@@ -3,29 +3,25 @@
 </a>
 
 
-<h1 align="center">
+<h5 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+A.R.+MAHFUJ....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+</h5>
 
-
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align='right' alt='codding' width='400' src='https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966'/>
+## :eyes: Current overview
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburaihan32&label=Profile%20views&color=0e75b6&style=flat" alt="aburaihan32" /> </p>
 
-- 🔭 I’m currently working on **DiagPulse**
+<img align='right' alt='codding' width='300' height="280" src='https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966'/>
 
-- 🌱 I’m currently learning **MongoDB, Express.js ect.**
+### 🔭 I’m currently - working on **DiagPulse**
+### 🌱 I’m exploring - **MongoDB, Express.js ect.**
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To help people learn web development. 
+### ⚡ Fun fact - I enjoy coding and I speak 4 languages.
+### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P_VVOpir76AmT-ZFq338GN3B3qEVDJn1/view?usp=sharing)
 
-- 💬 Ask me about **React.js, JavaScript**
-
-- 📫 How to reach me **abumahfuz3211@gamil.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P_VVOpir76AmT-ZFq338GN3B3qEVDJn1/view?usp=sharing](https://drive.google.com/file/d/1P_VVOpir76AmT-ZFq338GN3B3qEVDJn1/view?usp=sharing)
-
-- ⚡ Fun fact **I am Funny🤩**
-
+<br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -38,21 +34,12 @@
 ## :mailbox: Reach me out
 
 <br />
-
-<h5 align="center">
-  <code><a href="https://linkedin.com/in/md-abu-rayhan-mahfuj" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+<p align="center">
+  <a href="https://linkedin.com/in/md-abu-rayhan-mahfuj" target="blank" title="Linkedin"><img height="50px" alt="css3" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+ <a href="https://web.facebook.com/profile.php?id=100033961412449" target="blank" title="Linkedin"> <img height="50px" alt="html5" src="https://img.shields.io/badge/-Facebook-0863F7?style=flat-square&logo=facebook&logoColor=white" /></a>
+</p>
 <br />
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-abu-rayhan-mahfuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abu-rayhan-mahfuj" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100033961412449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100033961412449" height="30" width="40" /></a>
-</p>
 
 ## :computer: Technologies that I know
 
@@ -76,8 +63,14 @@
   <img height="50px" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aburaihan32&show_icons=true&locale=en&layout=compact" alt="aburaihan32" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aburaihan32&show_icons=true&locale=en" alt="aburaihan32" /></p>
+## 🚀 : Coding Progress
 
+<br/>
+
+<div align="center">
+<p><img width="48%" height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aburaihan32&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="aburaihan32" /></p>
+
+<p><img width="48%" height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=aburaihan32&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="aburaihan32" /></p>
+</div>
 
