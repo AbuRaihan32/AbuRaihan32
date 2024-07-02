@@ -1,7 +1,15 @@
 <a href="https://web.facebook.com/profile.php?id=100033961412449">
 <img src="https://github.com/AbuRaihan32/AbuRaihan32/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" />
 </a>
-<h1 align="center">Hi 👋, I'm Abu Raihan Mahfuz</h1>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+RAYHAN+MAHFUJ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align='right' alt='codding' width='400' src='https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburaihan32&label=Profile%20views&color=0e75b6&style=flat" alt="aburaihan32" /> </p>
@@ -26,7 +34,18 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=aburaihan32&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-<p><img align="center" src="&" alt="aburaihan32" /></p>
+
+## :mailbox: Reach me out
+
+<br />
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br />
 
 
 <h3 align="left">Connect with me:</h3>
