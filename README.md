@@ -1,4 +1,6 @@
-![logo](https://github.com/AbuRaihan32/AbuRaihan32/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+<a href="https://web.facebook.com/profile.php?id=100033961412449">
+<img src="https://github.com/AbuRaihan32/AbuRaihan32/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" />
+</a>
 <h1 align="center">Hi 👋, I'm Abu Raihan Mahfuz</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align='right' alt='codding' width='400' src='https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966'/>
@@ -16,17 +18,47 @@
 
 - ⚡ Fun fact **I am Funny🤩**
 
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=aburaihan32&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+<p><img align="center" src="&" alt="aburaihan32" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-abu-rayhan-mahfuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abu-rayhan-mahfuj" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100033961412449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100033961412449" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+  <img height="50px" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img height="50px" alt="css3" src="https://img.shields.io/badge/-css3-254BDD?style=flat-square&logo=css3&logoColor=white" />
+  <img height="50px" alt="tailwindCss" src="https://img.shields.io/badge/-tailwind-1AAEB4?style=flat-square&logo=tailwindCss&logoColor=white" />
+  <img height="50px" alt="javaScript" src="https://img.shields.io/badge/-javaScript-EFD81D?style=flat-square&logo=javaScript&logoColor=white" />  
+</p>
+
+<p align="center">
+  <img height="50px" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img height="50px" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img height="50px" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img height="50px" alt="express" src="https://img.shields.io/badge/-express-45b8d8?style=flat-square&logo=express&logoColor=white" />
+</p>
+
+<p align="center">
+  <img height="50px" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img height="50px" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aburaihan32&show_icons=true&locale=en&layout=compact" alt="aburaihan32" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aburaihan32&show_icons=true&locale=en" alt="aburaihan32" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aburaihan32&" alt="aburaihan32" /></p>
+
