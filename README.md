@@ -71,7 +71,7 @@
 
 <br/>
 
-## 🚀 : Coding Progress
+## 🚀 Coding Progress
 
 <br/>
 
