@@ -19,7 +19,7 @@
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
 ### ⚡ Fun fact - I enjoy coding and I speak 4 languages.
-### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P_VVOpir76AmT-ZFq338GN3B3qEVDJn1/view?usp=sharing)
+### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ksm6mvqTFF17FkazUM8JHiAPW4Lu7nHt/view?usp=sharing)
 
 <br/>
 
