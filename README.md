@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburaihan32&label=Profile%20views&color=0e75b6&style=flat" alt="aburaihan32" /> </p>
 
 
-<img align='right' alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ### 🔭 I’m currently - working on **DiagPulse**
 ### 🌱 I’m exploring - **MongoDB, Express.js ect.**
