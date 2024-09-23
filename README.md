@@ -60,9 +60,10 @@
 </p>
 
 <p align="center">
-  <img height="50px" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img height="50px" alt="Next.js" src="https://img.shields.io/badge/-Next.js-262C36?style=flat-square&logo=next.js&logoColor=white" />
   <img height="50px" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
+  <img height="50px" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ </p>
 
 <br/>
 
