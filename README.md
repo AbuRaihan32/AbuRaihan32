@@ -35,9 +35,11 @@
 ## :mailbox: Reach me out
 
 <br />
+
 <p align="center">
-  <a href="https://linkedin.com/in/md-abu-rayhan-mahfuj" target="blank" title="Linkedin"><img height="50px" alt="css3" src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
- <a href="https://web.facebook.com/profile.php?id=100033961412449" target="blank" title="Linkedin"> <img height="50px" alt="html5" src="https://img.shields.io/badge/-Facebook-0863F7?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/md-abu-rayhan-mahfuj" target="blank" title="Linkedin"><img height="75" alt="css3" src="/Linkedin.png" /></a>
+ <a href="https://web.facebook.com/profile.php?id=100033961412449" target="blank" title="Facebook"> <img height="75" alt="html5" src="/Facebook.png" /></a>
+ <a href="https://x.com/AbuRaihanM15195" target="blank" title="Facebook"> <img height="75" alt="html5" src="/Twitter.png" /></a>
 </p>
 <br />
 
@@ -46,24 +48,18 @@
 
 <br>
 <p align="center">
-  <img height="50px" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img height="50px" alt="css3" src="https://img.shields.io/badge/-css3-254BDD?style=flat-square&logo=css3&logoColor=white" />
-  <img height="50px" alt="tailwindCss" src="https://img.shields.io/badge/-tailwind-1AAEB4?style=flat-square&logo=tailwindCss&logoColor=white" />
-  <img height="50px" alt="javaScript" src="https://img.shields.io/badge/-javaScript-EFD81D?style=flat-square&logo=javaScript&logoColor=white" />  
+<img src="/HTML.png"/>
+<img src="/css.png"/>
+<img src="/JavaScript.png"/>
+<img src="/react.png"/>
+<img src="/tailwind.png"/>
 </p>
-
 <p align="center">
-  <img height="50px" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img height="50px" alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img height="50px" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img height="50px" alt="express" src="https://img.shields.io/badge/-express-45b8d8?style=flat-square&logo=express&logoColor=white" />
+<img src="/node.png"/>
+<img src="/express.png"/>
+<img src="/mongo.png"/>
+<img src="/firebase.png"/>
 </p>
-
-<p align="center">
-   <img height="50px" alt="Next.js" src="https://img.shields.io/badge/-Next.js-262C36?style=flat-square&logo=next.js&logoColor=white" />
-  <img height="50px" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img height="50px" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- </p>
 
 <br/>
 
