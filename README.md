@@ -64,7 +64,7 @@
 <br/>
 
 ## 📄 About Me
-<p align="center">As a developer I can demonstrate any frontend requirement in a beautifully attractive way. <br/> I am very serious and focused on my work. I love to take on new challenges. <br/> I think it's better to fail than to succeed on the shoulders of others. <br/> Administered. Attained. Arranged.</p>
+<p align="center">As a dedicated developer, I excel in crafting visually compelling front-end solutions. <br/> I thrive on challenges, embracing failures as opportunities for growth and success. <br/> I am diligent in administration, achievement, and organization, <br/> always striving to improve and innovate.</p>
 
 
 <br/>
