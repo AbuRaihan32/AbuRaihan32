@@ -15,7 +15,7 @@
 
 <img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-### 🔭 I’m currently - working on [Biddyanoy](https://biddyanoy.vercel.app)
+### 🔭 I’m currently - working on [Smart-Madrasha](https://biddyanoy.vercel.app)
 ### 🌱 I’m exploring - **typescript, mongoose, redux, next.js.**
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
